@@ -1,0 +1,21 @@
+{
+  "endpoints": [
+    {
+      "name": "Example API",
+      "url": "https://api.github.com",
+      "interval": 60
+    },
+    {
+      "name": "Google",
+      "url": "https://www.google.com",
+      "interval": 120
+    }
+  ],
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "ton.email@gmail.com",
+    "password": "ton_mot_de_passe_app",
+    "to_email": "destinataire@example.com"
+  }
+}
