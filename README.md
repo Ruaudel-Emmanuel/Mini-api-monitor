@@ -23,6 +23,3 @@ La liste des API à surveiller et la configuration email sont mises dans un peti
 
 En résumé :
 📡 Il prévient si une API tombe en panne et te donne un aperçu simple de leur état depuis ton navigateur.
-
-Si tu veux, je peux aussi te faire un schéma visuel qui explique comment tout ça fonctionne.
-Veux-tu que je te fasse ce schéma ?
